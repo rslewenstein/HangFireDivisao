@@ -1,0 +1,8 @@
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\bin\Debug\netcoreapp3.1\HangFireDivisao.Domain.deps.json
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\bin\Debug\netcoreapp3.1\HangFireDivisao.Domain.dll
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\bin\Debug\netcoreapp3.1\HangFireDivisao.Domain.pdb
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\obj\Debug\netcoreapp3.1\HangFireDivisao.Domain.csprojAssemblyReference.cache
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\obj\Debug\netcoreapp3.1\HangFireDivisao.Domain.AssemblyInfoInputs.cache
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\obj\Debug\netcoreapp3.1\HangFireDivisao.Domain.AssemblyInfo.cs
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\obj\Debug\netcoreapp3.1\HangFireDivisao.Domain.dll
+D:\Projetos\Pessoais\dotnet\HangFireDivisao.Api\HangFireDivisao.Domain\obj\Debug\netcoreapp3.1\HangFireDivisao.Domain.pdb
